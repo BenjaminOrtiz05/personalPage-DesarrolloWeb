@@ -1,0 +1,36 @@
+{
+  "name": "personalpage-desarrolloweb",
+  "version": "1.0.0",
+  "description": "Repositorio dedicado únicamente a un página web personal para la asignatura de Desarrollo Web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminOrtiz05/personalPage-DesarrolloWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaminOrtiz05/personalPage-DesarrolloWeb/issues"
+  },
+  "homepage": "https://github.com/BenjaminOrtiz05/personalPage-DesarrolloWeb#readme",
+  "dependencies": {
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "@types/react": "^19.1.6",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8",
+    "typescript": "^5.8.3"
+  }
+}
